@@ -131,3 +131,23 @@ main{
     font-size: 18px;
     font-weight: 400;
 }
+
+/* single serivices */
+.services-area{
+    margin-top: 30px;
+}
+.service-title{
+    padding-bottom: 15px;
+}
+.services-items{
+    display: flex;
+    gap: 18px;
+}
+.single-services{
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.sections-title{
+    font-size: 20px;
+    font-weight: bold;
+}
